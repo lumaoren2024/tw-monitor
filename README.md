@@ -32,3 +32,10 @@ PROXIES = [
 ```bash
 python tw.py
 ```
+
+### 4、一个小时监控一次
+```bash
+crontab -e
+0 * * * * /usr/bin/python3 /path/to/tw.py
+```
+
