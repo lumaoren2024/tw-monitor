@@ -1,0 +1,3 @@
+selenium==4.7.0
+telegram==13.0
+chromedriver-autoinstaller==0.2.2
