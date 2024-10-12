@@ -13,8 +13,8 @@ CHAT_ID = '111'
 ```python
 URLS = [
     'https://x.com/ariel_sands_dan',
-    'https://x.com/EvaCmore',
-    'https://x.com/ouyoung11',
+    'https://x.com/elonmusk',
+    'https://x.com/HabibiCapital_',
 ]
 ```
 ### 2、3 修改代理地址
@@ -29,4 +29,6 @@ PROXIES = [
 ```
 
 ### 3、运行脚本
+```bash
 python tw.py
+```
